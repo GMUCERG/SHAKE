@@ -1,0 +1,16 @@
+sha3_pkg.vhd
+regn.vhd
+countern.vhd
+sha3_fsm3.vhd
+sipo.vhd
+sr_reg.vhd
+piso.vhd
+keccak_bytepad.vhd
+keccak_pkg.vhd
+keccak_cons.vhd
+keccak_fsm1.vhd
+keccak_fsm2.vhd
+keccak_round.vhd
+keccak_control.vhd
+keccak_datapath.vhd
+keccak_top.vhd
